@@ -1,4 +1,4 @@
-guess=int(input("enter a number : 1-100"))
+guess=int(input("enter a number : 1-100:  "))
 def get_user_guess():
     while True:
         try:
